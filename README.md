@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditi Sahu</h1>
 <h3 align="center">MERN Stack Developer | Codechef 3⭐| Developer @NCS | Competitive Programmer | Final Year Student at JSSATEN | CSE-24</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=girl%20coding%20cartoon&imgurl=https%3A%2F%2Fc8.alamy.com%2Fcomp%2FRBC3J3%2Fillustration-of-a-kid-girl-programming-on-her-laptop-using-different-programming-language-RBC3J3.jpg&imgrefurl=https%3A%2F%2Fwww.alamy.com%2Fillustration-of-a-kid-girl-programming-on-her-laptop-using-different-programming-language-image230762283.html&docid=ifEiD6GcmKCTwM&tbnid=MXLByIVte5YPQM"> 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 - 🌱 I’m currently exploring **MERN stack.**
 
 - 👨‍💻 All of my projects are available at [https://aditi9800.github.io/Portfolio./](https://aditi9800.github.io/Portfolio./)
